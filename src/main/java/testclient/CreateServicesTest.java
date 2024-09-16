@@ -4,7 +4,7 @@
  */
 package testclient;
 
-import abstractfactory.EmailServiceFactory;
+import factory.EmailServiceFactory;
 import facade.Facade;
 import javax.swing.DefaultComboBoxModel;
 import javax.swing.DefaultListModel;

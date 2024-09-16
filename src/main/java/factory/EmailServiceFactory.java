@@ -3,7 +3,7 @@
  * 
  * Clase creada el 15 de Septiembre de 2024
  */
-package abstractfactory;
+package factory;
 
 import services.EmailService;
 import services.*;

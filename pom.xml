@@ -20,4 +20,5 @@
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>com.mycompany.serviciocorreos1.ServicioCorreos1</exec.mainClass>
     </properties>
+    <name>MailSender</name>
 </project>
