@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ * EmailServiceFactory.java
+ * 
+ * Clase creada el 15 de Septiembre de 2024
  */
 package abstractfactory;
 
@@ -9,6 +10,8 @@ import services.JavaEmailService;
 
 /**
  *
+ * Aqui crearemos las instancias de los distintos servicios de correo electronico. En este caso, el cliente solo solicito javamail
+ * 
  * @author Fabricio
  */
 public class EmailServiceFactory {

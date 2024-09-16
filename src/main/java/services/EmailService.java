@@ -1,11 +1,14 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
+ * EmailService.java
+ * 
+ * Clase creada el 15 de Septiembre de 2024
+ * 
  */
 package services;
 
 /**
- *
+ * Esta clase representa el comportamiento base que debe de tener cualquier servicio de email que el cliente quiera implementar
+ * 
  * @author Fabricio
  */
 public interface EmailService {

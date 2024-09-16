@@ -1,11 +1,16 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ * JavaEmailService.java
+ * 
+ * Clase creada el 15 de Septiembre de 2024
+ * 
  */
 package services;
 
 /**
  *
+ * Servicio que pidio el cliente JavaMail. En este caso, manda utilizando la api de java. 
+ * Esta es solo una integracion de un servicio. La aplicacion puede implementar mas servicios
+ * 
  * @author Fabricio
  */
 public class JavaEmailService implements EmailService {
