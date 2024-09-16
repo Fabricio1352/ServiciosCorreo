@@ -13,4 +13,5 @@ package services;
  */
 public interface EmailService {
     void sendEmail(String to, String subject, String body) throws Exception; //cambiar a una exc personalizada
+
 }
